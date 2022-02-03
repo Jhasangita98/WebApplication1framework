@@ -1,0 +1,47 @@
+﻿body {
+
+}
+
+#nav{
+    background-color:crimson;
+    padding :5px;
+    padding-inline:4px 7px;
+}
+ui{
+    list-style-type:none;
+
+}
+li a {
+    font-size: 20px;
+    column-width: 50px;
+    font-style: italic;
+}
+a{
+    text-decoration:none;
+    margin-left:30%;
+    
+}
+li a:hover{
+    background-color:blueviolet;
+
+}
+#side{
+    text-align:center;
+    float:left;
+    width: 30px;
+    background-color:brown;
+    padding-bottom: 20%;
+
+}
+#content section {
+    float: right;
+    width: 64%;
+    padding: 20px;
+}
+#footer{
+    border-top:5px solid blue;
+    clear:both;
+    padding-bottom:5px;
+    text-align:center;
+}
+
